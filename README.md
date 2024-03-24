@@ -1,2 +1,2 @@
 # Bank-Management
-author Mohsin ali
+Author Mohsin ali
